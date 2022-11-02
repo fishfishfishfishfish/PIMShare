@@ -1,3 +1,4 @@
+![logo](img/logo-no-background.png)
 Experiment code of `PIMShare: Scheduling Inference to Multiple Neural Networks for Processing-in-memory Accelerator` for reproducubility.
 
 ## file description
